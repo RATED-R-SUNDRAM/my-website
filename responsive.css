@@ -332,3 +332,8 @@
     display: inline-block;
     margin: 0px 5%;
 }
+.responsive-icons{
+    display:flex;
+    flex-direction: row;
+    margin-top:0;
+}
